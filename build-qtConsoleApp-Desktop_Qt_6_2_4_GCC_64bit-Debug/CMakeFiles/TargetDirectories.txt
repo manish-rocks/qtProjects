@@ -1,0 +1,9 @@
+/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/qtConsoleApp.dir
+/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/qtConsoleApp_autogen_timestamp_deps.dir
+/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/qtConsoleApp_autogen.dir

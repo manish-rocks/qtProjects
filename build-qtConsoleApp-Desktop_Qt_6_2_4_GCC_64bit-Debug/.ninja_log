@@ -1,0 +1,8 @@
+# ninja log v5
+0	14	1668272310990250221	qtConsoleApp_autogen/timestamp	f09fb98b08e52d8f
+0	14	1668272310990250221	qtConsoleApp_autogen/mocs_compilation.cpp	f09fb98b08e52d8f
+0	14	1668272310990250221	/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/qtConsoleApp_autogen/timestamp	f09fb98b08e52d8f
+0	14	1668272310990250221	/home/manish/QtProjects/build-qtConsoleApp-Desktop_Qt_6_2_4_GCC_64bit-Debug/qtConsoleApp_autogen/mocs_compilation.cpp	f09fb98b08e52d8f
+15	29	1668272311010255181	CMakeFiles/qtConsoleApp.dir/qtConsoleApp_autogen/mocs_compilation.cpp.o	3dd95eb8ed76d527
+14	1502	1668272312482619714	CMakeFiles/qtConsoleApp.dir/main.cpp.o	d4644e5add84ed3c
+1503	1665	1668272312642659304	qtConsoleApp	935609a29a56b528
